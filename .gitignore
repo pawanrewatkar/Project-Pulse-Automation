@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# Test reports
+test-output/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sensitive configuration
+.env
+*.secret
